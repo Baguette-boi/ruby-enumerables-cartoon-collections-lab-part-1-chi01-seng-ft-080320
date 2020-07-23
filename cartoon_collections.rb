@@ -13,8 +13,8 @@ end
 
 def list_dwarves(array)
   
-  array.each_with_index do |character, index|
-    puts character = index(1)
+  array.each_with_index do |character, index(1)|
+    puts character = index
   end
   # Use `each_with_index` to enumerate over the provided array
   #
